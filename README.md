@@ -1,4 +1,4 @@
-# 🏥 MediLink-Backend
+MediLink-Backend
 
 **Sistema de Gestión de Citas Médicas basado en Arquitectura de Microservicios**
 
