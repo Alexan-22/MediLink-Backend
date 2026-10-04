@@ -1,0 +1,38 @@
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Windows
+Thumbs.db
+
+# Mac
+.DS_Store
+
+# Eclipse Workspace
+.metadata/
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+**/target/
+
+# Configuraciones privadas
+**/application-local.yml
+**/.env
